@@ -6,7 +6,7 @@
  -->
 <h2 align="center"> 👨‍💻 Who am i</h2>
 <p align="center">
-  <samp>MY name is Jithan Roy. I’m a Software Engineer and UI/UX designer from Dhaka, BD. Currently, I am working for Wtv Globala leading global virtual events company supporting the world's largest organizations. I also love to design & build projects based on human-computer interaction...
+  <samp>MY name is Jithan Roy. I’m a Software Engineer from Dhaka, BD. Currently, I am working for Wtv Global leading global virtual events company supporting the world's largest organizations. I also love to design & build projects based on human-computer interaction...
 This year I am focused on learning D3, GraphQL along with my day to day job. Also taking some time to work on ZapTwo Software, that is a small creative web development studio.
   </samp>
   <br> <br>
