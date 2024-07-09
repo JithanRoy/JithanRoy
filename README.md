@@ -50,8 +50,8 @@ This year I am focused on learning D3, GraphQL along with my day to day job. Als
 <h2 align="center">📈 My Github Stats</h2>
 
 <div style="display: flex;align-content: center; align-items: center; justify-content:center; flex-direction: row;" >
-    <img style="height: 200px; width:450px; margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=csalkemy&show_icons=true&theme=transparent" alt="Image 1">
-    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Image 2">
+    <img style="height: 200px; width:450px; margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=JithanRoy&show_icons=true&theme=transparent" alt="Image 1">
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithanRoy&layout=compact" alt="Image 2">
 </div>
 
 <hr>
