@@ -1,4 +1,4 @@
-<div align="center">
+<div style="width: 100%" align="center">
   <img src="https://github.com/JithanRoy/JithanRoy/blob/master/profileBanner.png" alt="header"/>
 </div>
 
