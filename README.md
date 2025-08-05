@@ -1,5 +1,5 @@
 <div style="width: 100%" align="center">
-  <img src="https://github.com/JithanRoy/JithanRoy/blob/master/profileBanner.png" alt="header"/>
+  <img src="https://github.com/JithanRoy/JithanRoy/blob/master/profileBanner2.gif" alt="header"/>
 </div>
 
 <!-- <h2 align="center"> (Open for Hiring)</h2>
