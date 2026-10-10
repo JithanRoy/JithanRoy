@@ -4,10 +4,10 @@
 
 <h2 align="center">👨‍💻 Who am I</h2>
 <p align="center">
-  <samp>
-    Hi, I'm <b>Jithan Roy</b>, a Software Engineer based in Dhaka, Bangladesh. Currently, I work at <b>Wtv Global</b>, a leading global virtual events company supporting the world's largest organizations. I love designing and building projects centered around human-computer interaction.<br><br>
-    🌱 This year, I am focused on learning <b>D3.js</b> and <b>GraphQL</b> alongside my day-to-day job, while dedicating time to build <b>ZapTwo Software</b>, a small creative web development studio.
-  </samp>
+<samp>
+  Hi, I'm <b>Jithan Roy</b>, a Full-Stack Software Engineer based in Dhaka, Bangladesh[cite: 1]. Currently, I work at <b>TechnoNext Ltd.</b>, building scalable web applications and backend systems[cite: 1]. I love designing and building projects centered around human-computer interaction.<br><br>
+  🌱 This year, I am focused on mastering <b>backend and devops</b> and advanced database engineering alongside my day-to-day job[cite: 1], while dedicating time to build.
+</samp>
   <br><br>
   <!-- Fixed username from csalkemy to JithanRoy -->
   <img src="https://komarev.com/ghpvc/?username=JithanRoy&color=blueviolet" alt="Profile Views" />&nbsp;
