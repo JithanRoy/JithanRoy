@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profilebanner2.gif" alt="header" width="100%"/>
+  <img src="./profilebanner2-enhanced.gif" alt="header" width="100%"/>
 </div>
 
 <h2 align="center">👨‍💻 Who am I</h2>
